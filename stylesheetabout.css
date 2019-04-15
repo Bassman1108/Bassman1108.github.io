@@ -1,0 +1,9 @@
+body{
+    background-color: darkred;
+    color: whitesmoke;
+}
+h1 {
+    text-shadow: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 40px;
+}
