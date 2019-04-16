@@ -7,3 +7,27 @@ h1 {
     text-shadow: 2px 2px 4px #000000;
     font-size: 40px;
 }
+nav {
+    float: left;
+    background-color: ghostwhite;
+    padding: 5px;
+    height: 315px;
+    border-radius: 15px;
+    margin-right: 0;
+    box-shadow: 4px 4px 4px #000000;
+}
+li a {
+    background-color: black;
+    text-decoration: none;
+    padding: 25px;
+    text-transform: uppercase;
+    display: block;
+    box-shadow: black;
+    border-radius: 15px;
+    margin: 5px;
+    color: whitesmoke;
+}
+
+    li a:hover {
+        transform: scale(1.2);
+    }

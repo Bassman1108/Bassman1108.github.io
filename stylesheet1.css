@@ -5,41 +5,42 @@ body{
 h1 {
     text-shadow: white;
     text-shadow: 2px 2px 4px #000000;
-    font-size: 40px;
+    font-size: 50px;
     
 }
 nav {
-   float: left;
+    float: left;
     background-color: ghostwhite;
     padding: 5px;
     height: 315px;
     border-radius: 15px;
     margin-right: 0;
+    box-shadow: 4px 4px 4px #000000;
 }
-   li a {
+li a {
     background-color: black;
     text-decoration: none;
-    padding: 1.5em 1.5em;
+    padding: 25px;
     text-transform: uppercase;
     display: block;
-    
+    box-shadow: black;
     border-radius: 15px;
     margin: 5px;
     color: whitesmoke;
 }
    li a:hover {
-    transform: scale(1.5);
+    transform: scale(1.2);
 
    }
-  #info{
-      background-color:black;
-      box-shadow:0 4px 8px rgba(0,0,0,0.2);
-      border:5px solid white;
-      margin:25px;
-      display:block;
-      width:1250px;
-      padding:15px;  
-  }
+#info {
+    background-color: black;
+    box-shadow: 4px 4px 4px #000000;
+    border: 5px solid white;
+    margin: 25px;
+    display: block;
+    width: 1250px;
+    padding: 15px;
+}
 #image {
     display: block;
     margin-left: auto;
@@ -52,5 +53,6 @@ img{
     height: 70%;
     border-radius: 15px;
     box-shadow:0 4px 12px black;
+    background-color:white;
 }
 
