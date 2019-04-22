@@ -1,0 +1,77 @@
+body{
+    background-color: darkred;
+    color: whitesmoke;
+}
+
+h1 {
+    font-size: 50px;
+    text-shadow: 4px 4px 8px black;
+}
+nav{
+    float: left;
+    background-color: ghostwhite;
+    padding: 5px;
+    height: 400px;
+    border-radius: 15px;
+    margin-right: 0;
+    box-shadow: 4px 4px 4px 4px black
+    
+}
+
+li a{
+    background-color: black;
+    text-decoration: none;
+    padding: 25px;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+    border-radius: 15px;
+    margin: 5px;
+    color: whitesmoke;
+    font-size: 16px;
+}
+li a:hover{
+    transform: scale(1.2)
+}
+h2{
+    font-size: 30px;
+}
+#skills {
+    background-color: black;
+    box-shadow: 12px 12px 12px black;
+    border: 5px solid white;
+    margin: 25px;
+    border-radius: 25px;
+    display: block;
+    width: 1180px;
+    padding: 15px;
+    float: center right;
+    border-radius: 15px;
+}
+#image {
+    display: block;
+    float: right;
+    width: 40%;
+    height: 500px;
+}
+img {
+    width: 70%;
+    height: 60%;
+    border-radius: 15px;
+    box-shadow: 12px 12px 12px black;
+    background-color: white;
+}
+
+#image2 {
+    display: block;
+    float: right;
+    width: 40%;
+    height: 500px;
+}
+#img2 {
+    width: 70%;
+    height: 60%;
+    border-radius: 15px;
+    box-shadow: 12px 12px 12px black;
+    background-color: white;
+}
