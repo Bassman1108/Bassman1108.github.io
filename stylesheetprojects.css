@@ -19,13 +19,15 @@ h1{
     
 }
 h2{
-    font-size: 30px;
+    
+    text-align: center;
+    font-size:30px;
 }
-nav {
+ul {
     float: left;
     background-color: ghostwhite;
     padding: 5px;
-    height: 240px;
+    height: 320px;
     border-radius: 15px;
     margin-right: 0;
     box-shadow: 4px 4px 4px #000000;

@@ -6,12 +6,13 @@ body{
 h1 {
     font-size: 50px;
     text-shadow: 4px 4px 8px black;
+    text-align:center;
 }
-nav{
+ul{
     float: left;
     background-color: ghostwhite;
     padding: 5px;
-    height: 400px;
+    height: 500px;
     border-radius: 15px;
     margin-right: 0;
     box-shadow: 4px 4px 4px 4px black
